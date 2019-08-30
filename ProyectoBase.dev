@@ -1,6 +1,6 @@
 [Project]
-FileName=Actividad1.dev
-Name=Actividad1
+FileName=ProyectoBase.dev
+Name=ProyectoBase
 Type=1
 Ver=2
 ObjFiles=
@@ -27,9 +27,8 @@ CommandLine=
 Folders=
 IncludeVersionInfo=0
 SupportXPThemes=0
-CompilerSet=0
-CompilerSettings=0000000000000000000000000
-UnitCount=1
+CompilerSet=5
+CompilerSettings=0000000100000000100000000
 
 [VersionInfo]
 Major=1
@@ -49,14 +48,4 @@ ProductName=
 ProductVersion=
 AutoIncBuildNr=0
 SyncProduct=1
-
-[Unit1]
-FileName=actrun.c
-CompileCpp=0
-Folder=
-Compile=1
-Link=1
-Priority=1000
-OverrideBuildCmd=0
-BuildCmd=
 
